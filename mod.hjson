@@ -1,0 +1,10 @@
+name: sp-01
+displayName: "SP-01"
+subtitle: "There is something.. SCARE!"
+author: "Xenonix"
+description:.
+version: "1.0"
+minGameVersion: "160.3"
+java: false
+hidden: false
+repo: Xenonixq/SP-01

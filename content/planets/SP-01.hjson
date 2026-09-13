@@ -1,0 +1,33 @@
+generator: "AsteroidGenerator",
+  parent: "serpulo",
+    iconColor: 21452A,
+    orbitRadius: 6,
+    hasAtmosphere: false,
+    updateLighting: false,
+    drawOrbit: false,
+    accessible: true,
+    alwaysUnlocked: true,
+    defaultCore: "core-shard",
+    clearSectorOnLose: false,
+    allowSectorInvasion: false,
+	  allowLaunchToNumbered: false,
+    radius: 1,
+    hiddenItems: [
+
+    ],
+mesh: {
+  type: NoiseMesh
+  divisions: 3
+  radius: 0.3
+  planet: 2
+  color1: 21452A
+  color2: 466D4F
+  octaves: 4
+  persistence: 0.2
+  scale: 1.1
+  mag: 5
+  coct: 4
+  cper: 1.4
+  cscl: 0.3
+  cthresh: 0.01
+  }

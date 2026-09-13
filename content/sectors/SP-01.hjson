@@ -1,0 +1,10 @@
+    sector: 0,
+    planet: "SP-01",
+    research: {
+        parent: "copper",
+    },
+    difficulty: 9,
+    overrideLaunchDefaults: true
+    addStartingItems: true
+captureWave: 10
+alwaysUnlocked: true
